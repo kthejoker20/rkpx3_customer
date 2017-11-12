@@ -1,6 +1,6 @@
 <customer name="JokerzMOD">
 	<item name="AppVersion" value="JokerzPX3mod.version.1.2017"/>
-	<item name="CustomerNum" value="14"/>
+	<item name="CustomerNum" value="2"/>
 	<item name="UIStyleStrList" value="Classic matte(0),Cold black(1),Misc Interface(3),Diamond lattice(5),Misc (6),Misc Interface(8),Blue Interace(9),SR7 UI(11),Misc Interface(13),ACX UI (15),Special(17).CHWY(18),Exclusive Interface(19),UI04(20),Benz UI(22)"/>
 	<item name="UIStyleNumList" value="0,1,3,5,6,8,9,11,13,15,17,18,19,20,22"/>
 	<item name="NavBarStypeStrList" value="Classic style(0),Classic Blue(1),Red style(2),Diamond style(5),Misc Theme(6),Blue Interface (9),SR7 UI (11),ACX UI(15),Misc Theme(16),Special(17),CHWY(18),UI04(20),Benz Theme(22)"/>
