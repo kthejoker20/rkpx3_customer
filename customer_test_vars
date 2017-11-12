@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <customer name = "车酷时代">
+
+
+
+<item name="OSSoftDetectGpsSnd" value="1"/>
+
 	<item name = "AppVersion" value="20170518A-Ver3.0.1.carcool_860_EN"></item>
 	<item name = "CustomerNum" value="2"></item>
 	<item name = "UIStyleStrList" value="Classics UI,Black UI,VW UI,Rhomboids UI,Cyanine UI"></item>
