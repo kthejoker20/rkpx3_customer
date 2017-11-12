@@ -2,7 +2,7 @@
 <customer name = "车酷时代">
 
 
-
+<item name="UICategoryNum" value="2"/>
 <item name="OSSoftDetectGpsSnd" value="1"/>
 
 	<item name = "AppVersion" value="20170518A-Ver3.0.1.carcool_860_EN"></item>
