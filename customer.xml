@@ -1,5 +1,6 @@
-<customer name = "JoKeR">
-	<item name = "AppVersion" value="jOkErZ_PX3mod╭∩╮(Ο_Ο)╭∩╮"></item>
+<?xml version="1.0" encoding="utf-8"?>
+<customer name = "车酷时代">
+	<item name = "AppVersion" value="20170714A-Ver3.0.1.carcool_860_EN"></item>
 	<!-- Customer number activate different features, do not use 0 or 1 -->
 	<item name = "CustomerNum" value="2"></item>
 	<!-- Adds UI themes may not unlock unless correct customer number is entered above -->
