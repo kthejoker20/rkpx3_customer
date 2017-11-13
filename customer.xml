@@ -3,9 +3,9 @@
 	<!-- Customer number activate different features, do not use 0 or 1 -->
 	<item name = "CustomerNum" value="2"></item>
 	<!-- Adds UI themes may not unlock unless correct customer number is entered above -->
-	<item name = "UIStyleStrList" value="Classic matte0,Cold black1,Misc Interface3,Diamond lattice5,Misc6,MiscInterface8,BlueInterace9,SR7UI11,MiscInterface13,ACXUI15,Special17.CHWY18,ExclusiveInterface19,UI0420,BenzUI22"></item>
+	<item name = "UIStyleStrList" value="Default_0,Black_1,Misc_3,Diamond_5,Misc_6,Misc_8,Blue_9,AUDI_SR7UI_11,Misc_13,ACXUI_15,Special_17,CHWY_18,Misc_19,UI04_20,Merc_BenzUI_22"></item>
 	<item name = "UIStyleNumList" value="0,1,3,5,6,8,9,11,13,15,17,18,19,20,22"></item>
-	<item name = "NavBarStypeStrList" value="Classicstyle0,ClassicBlue1,Redstyle2,Diamondstyle5,MiscTheme6,BlueInterface9,SR7UI11,ACXUI15,MiscTheme16,Special17,CHWY18,UI0420,BenzTheme22"></item>
+	<item name = "NavBarStypeStrList" value="Default_0,Classic_Blue_1,Red_2,Diamond_5,Misc_6,Blue_9,AUDI_SR7UI_11,ACXUI_15,Misc_16,Misc_17,CHWY_18,UI04_20,Merc_Benz_22"></item>
 	<item name = "NavBarStypeNumList" value="0,1,2,5,6,9,11,15,16,17,18,20,22"/>
 	<!-- configuration of the system -->
 	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
